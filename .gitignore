@@ -1,0 +1,5 @@
+.cache
+.settings
+bin
+proguard_cache
+libs/scala_library.min.jar
